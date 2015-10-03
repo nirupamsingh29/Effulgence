@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2">
+
+    <item
+        jar="/home/nutrino/studytable/Effulgence/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false" revision="23.0.1" sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex
+            dex="/home/nutrino/studytable/Effulgence/app/build/intermediates/pre-dexed/release/classes-3c920e87846c35301d5f467121927e5f620e1a05.jar" />
+    </item>
+    <item
+        jar="/home/nutrino/studytable/Effulgence/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false" revision="23.0.1" sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex
+            dex="/home/nutrino/studytable/Effulgence/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-6b1af2051fad775702eb29d5f57f562e861ce064.jar" />
+    </item>
+    <item
+        jar="/home/nutrino/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false" revision="23.0.1" sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex
+            dex="/home/nutrino/studytable/Effulgence/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-d1d08a0827ffacbf2356a31a29f93d0fdee93d77.jar" />
+    </item>
+    <item
+        jar="/home/nutrino/studytable/Effulgence/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false" revision="23.0.1" sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex
+            dex="/home/nutrino/studytable/Effulgence/app/build/intermediates/pre-dexed/release/classes-63ad4829ca46a05e199c6c319ce9d7052e03c526.jar" />
+    </item>
+    <item
+        jar="/home/nutrino/studytable/Effulgence/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false" revision="23.0.1" sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex
+            dex="/home/nutrino/studytable/Effulgence/app/build/intermediates/pre-dexed/release/classes-d38d338d8d92aea40869512c793d216e9bf7ec75.jar" />
+    </item>
+    <item
+        jar="/home/nutrino/studytable/Effulgence/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false" revision="23.0.1" sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex
+            dex="/home/nutrino/studytable/Effulgence/app/build/intermediates/pre-dexed/release/classes-a3e1e9763cee3163da229c8d720b895901234b91.jar" />
+    </item>
+    <item
+        jar="/home/nutrino/studytable/Effulgence/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false" revision="23.0.1" sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex
+            dex="/home/nutrino/studytable/Effulgence/app/build/intermediates/pre-dexed/release/classes-bd52a72a890577ec509e27714ca0db218506c1e7.jar" />
+    </item>
+
+</items>
